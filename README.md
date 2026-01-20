@@ -28,53 +28,103 @@ Saya terbiasa membangun:
 
 ## 🧠 Core Skills
 
-### Backend & Database
-- PHP (Laravel)
-- REST API Design
-- MySQL
-- Authentication & Role Management
-- MVC Architecture
+<div align="center">
 
-### Frontend (Supportive)
-- HTML5, CSS3, JavaScript
-- Tailwind CSS
-- Blade Template
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-### IoT & Embedded System
-- Arduino
-- ESP8266 / ESP32
-- Sensor & Relay Control
-- IoT → Web Integration
+<p>
+  <img src="https://img.shields.io/badge/MVC_Architecture-4f46e5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Auth_%26_Role_Management-7c3aed?style=flat-square"/>
+</p>
 
-### Tools & Workflow
-- Git & GitHub
-- Postman
-- VS Code
-- Docker (Basic)
-- Linux Environment
+---
+
+### 🎨 Frontend (Supportive)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blade_Template-FF2D20?style=flat-square"/>
+</p>
+
+---
+
+### 🔌 IoT & Embedded System
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Sensor_%26_Relay_Control-4f46e5?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IoT_to_Web_Integration-7c3aed?style=flat-square"/>
+</p>
+
+---
+
+### 🛠️ Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-Basic-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux_Environment-000000?style=flat-square&logo=linux&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
 ## 🏗️ Real Projects & Case Studies
 
-### 📌 Smart Library Management System
-**Tech:** Laravel, MySQL  
-- Manajemen peminjaman & pengembalian buku  
-- Role Admin & User  
-- Dashboard statistik  
-- Sistem notifikasi transaksi
+### 📚 Smart Library Management System
+**Tech Stack:** `Laravel` • `MySQL`
 
-### 📌 Attendance System (Web + IoT)
-**Tech:** Laravel, ESP8266/ESP32  
+- Sistem peminjaman & pengembalian buku berbasis web  
+- Role **Admin & User** dengan hak akses berbeda  
+- Dashboard statistik transaksi  
+- Notifikasi status peminjaman  
+
+> 🎯 Fokus: *Data consistency, role management, dan clean CRUD structure*
+
+---
+
+### ⏱️ Attendance System (Web + IoT)
+**Tech Stack:** `Laravel` • `ESP8266 / ESP32`
+
 - Absensi berbasis perangkat IoT  
-- Validasi lokasi & waktu  
-- Admin dashboard & laporan kehadiran
+- Validasi **lokasi & waktu** kehadiran  
+- Admin dashboard & laporan absensi  
+- Integrasi data IoT → Web  
 
-### 📌 School / Organization Dashboard
-**Tech:** Laravel, Tailwind  
-- Manajemen user (Admin, Guru, Murid)  
+> 🎯 Fokus: *Integrasi hardware ke sistem web secara real-time*
+
+---
+
+### 🏫 School / Organization Dashboard
+**Tech Stack:** `Laravel` • `Tailwind CSS`
+
+- Manajemen user (**Admin, Guru, Murid**)  
 - Statistik & monitoring data  
-- CRUD terstruktur & aman
+- CRUD aman & terstruktur  
+- Interface sederhana & responsif  
+
+> 🎯 Fokus: *User management & scalable dashboard system*
+
 
 ---
 
