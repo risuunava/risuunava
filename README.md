@@ -38,12 +38,7 @@ A computer science student specializing in **backend development** with Laravel,
 | **IoT Attendance System** | Web-based attendance with ESP8266/ESP32 | Laravel, IoT |
 | **Organization Dashboard** | Admin dashboard for school/org management | Laravel, Tailwind |
 
----
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=risuunava&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=risuunava&layout=compact&theme=radical&hide_border=true)
 
 ---
 
