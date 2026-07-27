@@ -1,7 +1,7 @@
 # Muhammad Lazuardi Al-Farisi
 
 <p align="center">
-  <strong>Backend Developer • Full Stack Engineer • IoT Enthusiast</strong>
+  <strong>Web/App Dev | ML Engineer | Tech Enthusiast </strong>
 </p>
 
 <p align="center">
