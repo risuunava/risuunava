@@ -1,109 +1,90 @@
+![Banner](./assets/bg.png)
+
 # Muhammad Lazuardi Al-Farisi
 
-<p align="center">
-  <strong>Web/App Dev | ML Engineer | Tech Enthusiast </strong>
-</p>
+Backend Engineer, Full Stack Developer, ML Engineer
 
-<p align="center">
-  <a href="https://github.com/risuunava"><img alt="GitHub followers" src="https://img.shields.io/github/followers/risuunava?style=flat&label=Followers"></a>
-  <a href="https://github.com/risuunava?tab=repositories"><img alt="GitHub Repos" src="https://img.shields.io/badge/Repositories-16-blue?style=flat"></a>
-  <img alt="Status" src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat">
-</p>
+[GitHub](https://github.com/risuunava)  |  [Portfolio](https://portofolio-risu.vercel.app/)  |  [Google Skills](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
 
----
+![Status](https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat)
+![GitHub followers](https://img.shields.io/github/followers/risuunava?style=flat)
 
 ## About
 
-Backend developer and full-stack engineer with expertise in building scalable web applications and IoT solutions. Currently focusing on machine learning integration, system architecture, and innovative problem-solving.
-
----
+Backend engineer and full-stack developer with expertise in building scalable web applications and IoT solutions. Specialized in system architecture, machine learning integration, and innovative problem-solving.
 
 ## Tech Stack
 
-| Category | Technologies |
-|----------|---|
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
-| **IoT & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+**Backend**
+PHP, Laravel, MySQL, PostgreSQL
 
----
+**Frontend**
+JavaScript, React, Next.js, Tailwind CSS
 
-## Featured Projects
+**ML and IoT**
+Python, Arduino, ESP8266, ESP32
 
-### 🎯 Helpdesk System Web
-**Full-stack IT helpdesk with ML-powered priority detection**
+**Tools**
+Git, Postman, Docker
 
-Intelligent ticketing system with automated issue classification achieving 87% accuracy. Features SLA tracking, role-based access control, and comprehensive reporting.
+## Projects
 
-- **Stack:** Laravel 12 API • Next.js 16 • Python ML • PostgreSQL
-- **Highlights:** ML auto-priority • SLA alerts • Real-time tracking
-- **Status:** Production Ready
+### Helpdesk System Web
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-helpdesk--system--web-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/helpdesk-system-web)
+Full-stack IT helpdesk with ML-powered priority detection. Intelligent ticketing system with automated issue classification (87% accuracy), SLA tracking, and role-based access control.
 
----
+Tech: Laravel 12, Next.js 16, Python ML, PostgreSQL
+Status: Production Ready
+[View Repository](https://github.com/risuunava/helpdesk-system-web)
 
-### 🎨 Sumedang Creative Center
-**Company profile & digital information platform**
+### Sumedang Creative Center
 
-Modern, responsive website showcasing creative services and programs with integrated content management system.
+Modern, responsive company profile and digital information platform with integrated content management system.
 
-- **Stack:** Laravel • Tailwind CSS • Blade Template
+Tech: Laravel, Tailwind CSS, Blade Templates
+[View Repository](https://github.com/risuunava/sumedang-ceative-center)
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-sumedang--ceative--center-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/sumedang-ceative-center)
+### IT Support Report Management
 
----
+Streamlined platform for managing IT support requests with efficient categorization and tracking.
 
-### 🛠️ IT Support Report Management
-**Support ticket management system**
+Tech: Laravel, MySQL, Blade Templates
+[View Repository](https://github.com/risuunava/sariater-it-support)
 
-Streamlined platform for managing IT support requests with efficient categorization and tracking capabilities.
+### Sentiment Analysis Public Service Reviews
 
-- **Stack:** Laravel • MySQL • Blade Template
+Machine learning project analyzing Indonesian public service reviews using NLP for sentiment classification.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-sariater--it--support-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/sariater-it-support)
+Tech: Python, TF-IDF, Logistic Regression
+[View Repository](https://github.com/risuunava/analisis-sentimen-komentar)
 
----
+## Competencies
 
-### 📊 Sentiment Analysis - Public Service Reviews
-**NLP-based review classification**
+**Backend Development**
+REST APIs, database optimization, Laravel ecosystem
 
-Machine learning project analyzing Indonesian public service reviews using TF-IDF and Logistic Regression for sentiment classification.
+**Full Stack Integration**
+Frontend frameworks (React, Vue, Next.js) with backend systems
 
-- **Stack:** Python • Machine Learning • NLP
+**Machine Learning**
+NLP, sentiment analysis, data processing and classification
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-analisis--sentimen-0969da?style=for-the-badge&logo=github)](https://github.com/risuunava/analisis-sentimen-komentar)
+**System Architecture**
+Scalable design patterns, microservices, API development
 
----
-
-## Experience
-
-- **Backend Development:** Laravel, REST APIs, database design & optimization
-- **Full Stack:** Frontend integration with Vue.js, React, and Next.js
-- **Machine Learning:** Python, NLP, sentiment analysis, data processing
-- **IoT Systems:** Arduino, ESP8266/ESP32, embedded systems
-- **System Architecture:** Scalable design, microservices, API development
-
----
+**IoT Systems**
+Embedded systems, hardware integration, real-time processing
 
 ## Education
 
-**Universitas Sebelas April** | Computer Science / Informatics
-- Location: Sumedang, West Java, Indonesia
+Universitas Sebelas April
+Computer Science / Informatics
+Sumedang, West Java, Indonesia
 
----
+## Connect
 
-## 🔗 Connect With Me
+Open for collaboration, freelance projects, and full-time opportunities.
 
-[![GitHub](https://img.shields.io/badge/GitHub-risuunava-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/risuunava)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-3b82f6?style=for-the-badge&logo=globe&logoColor=white)]([https://bit.ly/4lTYVZd](https://portofolio-risu.vercel.app/))
-[![Google%20Skills](https://img.shields.io/badge/Google%20Skills-Profile-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
+[GitHub](https://github.com/risuunava)  |  [Email](mailto:your-email@example.com)  |  [LinkedIn](your-linkedin-url)
 
-**Open for:** Collaboration • Freelance Projects • Full-time Opportunities
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=risuunava&style=flat&color=blue&label=Views" alt="Profile views">
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=risuunava&style=flat&color=blue&label=Profile%20Views)
