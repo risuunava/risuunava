@@ -2,7 +2,7 @@
 
 # Muhammad Lazuardi Al-Farisi
 
-Backend Engineer, Full Stack Developer, ML Engineer
+Full Stack Developer, ML Engineer, Tech Enthusiast
 
 [GitHub](https://github.com/risuunava)  |  [Portfolio](https://portofolio-risu.vercel.app/)  |  [Google Skills](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
 
@@ -85,6 +85,6 @@ Sumedang, West Java, Indonesia
 
 Open for collaboration, freelance projects, and full-time opportunities.
 
-[GitHub](https://github.com/risuunava)  |  [Email](mailto:your-email@example.com)  |  [LinkedIn](your-linkedin-url)
+[GitHub](https://github.com/risuunava)  |  [Email](risuunava@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/muhammad-lazuardi-al-farisi-63478940b)
 
 ![Profile views](https://komarev.com/ghpvc/?username=risuunava&style=flat&color=blue&label=Profile%20Views)
