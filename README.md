@@ -19,7 +19,7 @@ Web PHP, Laravel, JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
 Mobile Flutter, Dart, Capacitor
 
-Backend and Database MySQL, PostgreSQL, Supabase, Firebase
+Backend and Database MySQL, PostgreSQL, Supabase, Firebase, Google Cloud
 
 ML and Security Python, NLP, scikit-learn, LLM security
 
