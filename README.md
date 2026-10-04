@@ -2,7 +2,7 @@
 
 # Muhammad Lazuardi Al-Farisi
 
-Full Stack Software Engineer, ML Engineer, Tech Enthusiast
+Full Stack Software Engineer, Tech Enthusiast
 
 [GitHub](https://github.com/risuunava)  |  [Portfolio](https://portofolio-risu.vercel.app/)  |  [Google Skills](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
 
@@ -11,21 +11,21 @@ Full Stack Software Engineer, ML Engineer, Tech Enthusiast
 
 ## About
 
-Backend engineer and full-stack developer with expertise in building scalable web applications and IoT solutions. Specialized in system architecture, machine learning integration, and innovative problem-solving.
+Full Stack Software Engineer with expertise in building scalable web applications and IoT solutions. Specialized in system architecture, machine learning integration, and innovative problem-solving.
 
 ## Tech Stack
 
-**Backend**
-PHP, Laravel, MySQL, PostgreSQL
+Web PHP, Laravel, JavaScript, TypeScript, React, Next.js, Tailwind CSS
 
-**Frontend**
-JavaScript, React, Next.js, Tailwind CSS
+Mobile Flutter, Dart, Capacitor
 
-**ML and IoT**
-Python, Arduino, ESP8266, ESP32
+Backend and Database MySQL, PostgreSQL, Supabase, Firebase
 
-**Tools**
-Git, Postman, Docker
+ML and Security Python, NLP, scikit-learn, LLM security
+
+IoT Arduino, ESP8266, ESP32
+
+Tools Git, Docker, Postman, Vercel
 
 ## Projects
 
@@ -36,13 +36,6 @@ Full-stack IT helpdesk with ML-powered priority detection. Intelligent ticketing
 Tech: Laravel 12, Next.js 16, Python ML, PostgreSQL
 Status: Production Ready
 [View Repository](https://github.com/risuunava/helpdesk-system-web)
-
-### Sumedang Creative Center
-
-Modern, responsive company profile and digital information platform with integrated content management system.
-
-Tech: Laravel, Tailwind CSS, Blade Templates
-[View Repository](https://github.com/risuunava/sumedang-ceative-center)
 
 ### IT Support Report Management
 
