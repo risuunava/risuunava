@@ -2,7 +2,7 @@
 
 # Muhammad Lazuardi Al-Farisi
 
-Full Stack Developer, ML Engineer, Tech Enthusiast
+Full Stack Software Engineer, ML Engineer, Tech Enthusiast
 
 [GitHub](https://github.com/risuunava)  |  [Portfolio](https://portofolio-risu.vercel.app/)  |  [Google Skills](https://www.skills.google/public_profiles/6a6ee609-c84c-47ab-a562-ec7f58fb4490)
 
