@@ -11,62 +11,40 @@ Full Stack Software Engineer, Tech Enthusiast
 
 ## About
 
-Full Stack Software Engineer with expertise in building scalable web applications and IoT solutions. Specialized in system architecture, machine learning integration, and innovative problem-solving.
+Full Stack Software Engineer with expertise in building scalable web applications, desktop tools, and IoT solutions. Specialized in system architecture, machine learning integration, and innovative problem-solving.
 
 ## Tech Stack
 
-Web PHP, Laravel, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+| Category | Technologies |
+|:---|:---|
+| Web | PHP, Laravel, JavaScript, TypeScript, React, Next.js, Tailwind CSS |
+| Mobile | Flutter, Dart, Capacitor |
+| Desktop | C#, WPF, .NET 8, Python (Tkinter) |
+| Backend and Database | MySQL, PostgreSQL, Supabase, Firebase, Google Cloud |
+| ML and Security | Python, NLP, scikit-learn, LLM security |
+| IoT | Arduino, ESP8266, ESP32 |
+| Tools | Git, Docker, Postman, Vercel |
 
-Mobile Flutter, Dart, Capacitor
+## Featured Projects
 
-Backend and Database MySQL, PostgreSQL, Supabase, Firebase, Google Cloud
+| Project | Description | Tech | Status | Links |
+|:---|:---|:---|:---|:---|
+| **Notchi** | Native notch overlay for Windows 10/11, inspired by the macOS notch and Dynamic Island. Compact when idle, expands on hover with media controls, system stats (CPU, RAM, disk, battery), notes, and a file drop shelf. No Electron, idle memory under 100 MB. | C#, WPF, .NET 8 | v1.0.1 stable (Oct 2026), Apache-2.0 | [Repository](https://github.com/risuunava/Notchi) |
+| **Attendexa** | Web attendance platform with GPS location check, camera photo verification, and a gamified XP system with streaks and a monthly leaderboard to encourage employee discipline. Neo-Brutalist UI. | React 19, TypeScript, Vite, Tailwind CSS, Supabase | Live | [Repository](https://github.com/risuunava/attendexa) / [Live Demo](https://attendexa-mauve.vercel.app) |
+| **Ayumi** (my-ayumi) | Indonesian-language AI voice assistant for Windows. Always listening in the background via a wake word ("Ayumi"), executes one-step voice commands (Wikipedia, open sites, YouTube control, time/date), auto-starts with Windows, and has a dark-mode GUI with real-time logs. | Python, Tkinter, SpeechRecognition, pyttsx3 | Active development | [Repository](https://github.com/risuunava/my-ayumi) |
 
-ML and Security Python, NLP, scikit-learn, LLM security
-
-IoT Arduino, ESP8266, ESP32
-
-Tools Git, Docker, Postman, Vercel
-
-## Projects
-
-### Helpdesk System Web
-
-Full-stack IT helpdesk with ML-powered priority detection. Intelligent ticketing system with automated issue classification (87% accuracy), SLA tracking, and role-based access control.
-
-Tech: Laravel 12, Next.js 16, Python ML, PostgreSQL
-Status: Production Ready
-[View Repository](https://github.com/risuunava/helpdesk-system-web)
-
-### IT Support Report Management
-
-Streamlined platform for managing IT support requests with efficient categorization and tracking.
-
-Tech: Laravel, MySQL, Blade Templates
-[View Repository](https://github.com/risuunava/sariater-it-support)
-
-### Sentiment Analysis Public Service Reviews
-
-Machine learning project analyzing Indonesian public service reviews using NLP for sentiment classification.
-
-Tech: Python, TF-IDF, Logistic Regression
-[View Repository](https://github.com/risuunava/analisis-sentimen-komentar)
+More projects are available on my [GitHub profile](https://github.com/risuunava?tab=repositories).
 
 ## Competencies
 
-**Backend Development**
-REST APIs, database optimization, Laravel ecosystem
-
-**Full Stack Integration**
-Frontend frameworks (React, Vue, Next.js) with backend systems
-
-**Machine Learning**
-NLP, sentiment analysis, data processing and classification
-
-**System Architecture**
-Scalable design patterns, microservices, API development
-
-**IoT Systems**
-Embedded systems, hardware integration, real-time processing
+| Area | Focus |
+|:---|:---|
+| Backend Development | REST APIs, database optimization, Laravel ecosystem |
+| Full Stack Integration | React, Next.js, and Vue with backend systems, Supabase |
+| Desktop Applications | Native Windows apps with C# and WPF, Python desktop tooling |
+| Machine Learning | NLP, sentiment analysis, data processing and classification |
+| System Architecture | Scalable design patterns, microservices, API development |
+| IoT Systems | Embedded systems, hardware integration, real-time processing |
 
 ## Education
 
@@ -78,6 +56,4 @@ Sumedang, West Java, Indonesia
 
 Open for collaboration, freelance projects, and full-time opportunities.
 
-[GitHub](https://github.com/risuunava)  |  [Email](risuunava@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/muhammad-lazuardi-al-farisi-63478940b)
-
-![Profile views](https://komarev.com/ghpvc/?username=risuunava&style=flat&color=blue&label=Profile%20Views)
+[GitHub](https://github.com/risuunava)  |  [Email](mailto:risuunava@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/muhammad-lazuardi-al-farisi-63478940b)
